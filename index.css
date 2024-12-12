@@ -2,7 +2,7 @@ body {
     position: relative;
     align-items: center;
     text-align: center;
-    background-image: url("alexander-grey-62vi3TG5EDg-unsplash.jpg");
+    background-image: url('alexander-grey-62vi3TG5EDg-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
