@@ -137,7 +137,6 @@ li a:hover {
 }
 
 
-/* Medijska upita za prilagodljivost */
 @media (max-width: 800px) {
     p {
         margin: 0 5%;
