@@ -43,7 +43,7 @@ nav .stranice {
     display: flex;
     justify-content: center;
     margin: 0;
-    padding: 10px 0px;
+    padding: 0;
 }
 
 nav .stranice li {
