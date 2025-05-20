@@ -137,7 +137,6 @@ li a:hover {
     }
 
     nav .stranice {
-        flex-direction: column;
         align-items: center;
     }
 
