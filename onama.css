@@ -23,11 +23,31 @@ body {
     }
 }
 
+li {
+    list-style: none;
+    text-align: center;
+    margin: 10px 0;
+}
+
+li a {
+    font-size: 18px;
+    color: #69437e;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+ }
+
+li a:hover{
+    color: black;
+}
+
+
 nav {
     background-color: #69437e;
     padding: 10px 0;
-}
+    position: sticky;
 
+}
 nav .stranice {
     list-style: none;
     display: flex;
