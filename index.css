@@ -133,12 +133,10 @@ li a:hover {
 
 @media (max-width: 800px) {
     .logo { 
-         width: 700px;    
-         margin-top: 50px;
-         margin-bottom: 50px;
-         border-radius: 50%;
-         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-         animation: pulse 4s infinite;
+        width: 700px; 
+        height: 700px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
     p {
         margin: 0 5%;
