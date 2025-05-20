@@ -127,9 +127,4 @@ input[type="text"], textarea {
     nav ul li {
         margin: 10px 0;
     }
-
-    input[type="text"], textarea {
-        width: 95%;
-    }
-}
  }
