@@ -135,6 +135,12 @@ li a:hover {
     p {
         margin: 0 5%;
     }
+    .logo {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 25%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    animation: pulse 4s infinite;
 
     nav .stranice {
         flex-direction: column;
