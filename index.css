@@ -153,13 +153,4 @@ li a:hover {
 @media (max-width: 800px) {
     p {
         margin: 0 5%;
-    }
-
-    nav .stranice {
-        align-items: center;
-    }
-
-    nav .stranice li {
-        margin: 10px 0px;
-    }
 }
