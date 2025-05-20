@@ -17,8 +17,8 @@ nav {
     background-color: #69437e;
     padding: 10px 0;
     position: sticky;
-}
 
+}
 nav .stranice {
     list-style: none;
     display: flex;
@@ -28,7 +28,7 @@ nav .stranice {
 }
 
 nav .stranice li {
-    margin: 0 10px;
+    margin: 0 15px;
 }
 
 nav .stranice a {
