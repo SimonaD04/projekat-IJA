@@ -140,12 +140,6 @@ li a:hover {
     p {
         margin: 0 5%;
     }
-
-    nav .stranice {
-        flex-direction: row;
-        align-items: center;
-    }
-
    
 
     center img {
