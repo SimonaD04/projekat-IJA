@@ -135,9 +135,10 @@ li a:hover {
     .logo { 
         width: 500px; 
         height: 500px;
-        margin-top: 50px;
-        margin-bottom: 50px;
-        align-items: center;
+        margin-top: 200px;
+        margin-bottom: 200px;
+        margin-left: 200px;
+        margin-right: 200px;
     }
     p {
         margin: 0 5%;
