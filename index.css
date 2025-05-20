@@ -133,10 +133,11 @@ li a:hover {
 
 @media (max-width: 800px) {
     .logo { 
-        width: 700px; 
-        height: 700px;
+        width: 500px; 
+        height: 500px;
         margin-top: 50px;
         margin-bottom: 50px;
+        align-items: center;
     }
     p {
         margin: 0 5%;
