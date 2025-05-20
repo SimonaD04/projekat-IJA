@@ -132,15 +132,15 @@ li a:hover {
 }
 
 @media (max-width: 800px) {
-    p {
-        margin: 0 5%;
-    }
     .logo {
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 25%;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
     animation: pulse 4s infinite;
+    }
+    p {
+        margin: 0 5%;
     }
 
     nav .stranice {
