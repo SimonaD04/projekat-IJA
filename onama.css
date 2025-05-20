@@ -163,7 +163,6 @@ li a:hover {
     }
 
     nav ul {
-        flex-direction: column;
         align-items: center;
     }
 
